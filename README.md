@@ -1,9 +1,9 @@
-# react-demo
-A simple react demo application
-This app represents a simple Todo List written in React
+# Todo List simle React application
+A simple react demo application  
+This app represents a simple **Todo List** written in **React**
 
 
-# To run the project 
+## To run the project 
 
 1. Clone the repo
 2. Write the comands:
